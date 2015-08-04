@@ -1,0 +1,41 @@
+nav ul li{
+	display: inline-block;
+}
+nav{
+	border-width:100%;
+	background-color: yellow;
+	font-size: 20px;
+	font-family: cursive;
+}
+ body{
+ 	text-align: center;
+ 	background: url("../Jeremy Budhram/images/background.png");
+ 	background-size: cover;
+ 	background-position: center;
+ 	color: black;
+ 	font-family: cursive;
+ 	height: 100%;
+ 	width: 100%;
+ }
+ p {
+ 	font-size: 22px;
+ }
+ span{
+ 	font-size: 20px;
+ }
+ input {
+ 	border: 0;
+ 	padding: 10px;
+ 	font-size: 18px;
+ }
+ input[type="submit"] {
+ 	background: red;
+ 	color: white;
+ }
+ h2 {
+ 	position: absolute;
+ 	top: 70%;
+ 	left: 35%;
+ }
+
+ 
